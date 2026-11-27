@@ -1,0 +1,6 @@
+"Parameter","Estimate","95% CI, Lower Limit","95% CI, Upper Limit"
+"Long-term event-free fraction, Control",0.414,0.332,0.501
+"Long-term event-free fraction, Treatment",0.546,0.442,0.647
+Odds ratio for long-term event-free status (Treatment vs Control),1.707,0.992,2.937
+Latency log time ratio (Treatment vs Control),0.463,0.089,0.836
+Weibull shape,1.316,1.118,1.55

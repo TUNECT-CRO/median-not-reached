@@ -1,0 +1,4 @@
+"Parameter","Timepoint","Difference","95% CI Lower Limit","95% CI Upper Limit","Standard Error"
+Difference of Probabilities (Treatment - Control),12,0.186,0.084,0.287,0.052
+Difference of Probabilities (Treatment - Control),24,0.219,0.103,0.335,0.059
+Difference of Probabilities (Treatment - Control),36,0.159,0.039,0.279,0.061

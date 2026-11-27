@@ -1,0 +1,5 @@
+"Parameter","Timepoints","Treatment","Control","Difference, Treatment - Control"
+"Cumulative Incidence Function",6,"0.092","0.114","-0.022"
+"Cumulative Incidence Function",12,"0.186","0.188","-0.002"
+"Cumulative Incidence Function",24,"0.324","0.286","0.038"
+"Cumulative Incidence Function",36,"0.424","0.340","0.084"

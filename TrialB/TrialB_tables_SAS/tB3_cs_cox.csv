@@ -1,0 +1,3 @@
+"Model","Coefficient","Standard Error","Hazard Ratio","Hazard Ratio, 95% CI Lower Limit","Hazard Ratio, 95% CI Upper Limit","p-value"
+Cause-specific Cox: progression (deaths censored),-0.108,0.100,0.898,0.738,1.093,0.2831
+Cause-specific Cox: death without progression,-1.084,0.111,0.338,0.272,0.421,<.0001

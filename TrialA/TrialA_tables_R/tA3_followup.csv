@@ -1,0 +1,5 @@
+"Analysis Type","Treatment","Follow-Up Median","Follow-Up Median 95% CI Lower Limit","Follow-Up Median 95% CI Upper Limit","Follow-Up Q1","Follow-Up Q3"
+"Interim","Control","9.71","8.64","10.83","6.73","13.38"
+"Interim","Treatment","9.83","8.63","11.07","6.44","13.03"
+"Final","Control","41.28","39.00","42.22","37.46","44.67"
+"Final","Treatment","40.13","38.44","41.83","36.72","44.15"

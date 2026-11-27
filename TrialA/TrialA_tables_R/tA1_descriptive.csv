@@ -1,0 +1,5 @@
+"Analysis Type","Treatment","Number of Subjects","Number of Events (%)","Number of Censored (%)","Number of Administrative Censoring","Number of Dropout Censoring"
+"Interim","Control",140,"41 (29.3%)","99 (70.7%)",94,5
+"Interim","Treatment",140,"22 (15.7%)","118 (84.3%)",113,5
+"Final","Control",140,"78 (55.7%)","62 (44.3%)",49,13
+"Final","Treatment",140,"55 (39.3%)","85 (60.7%)",65,20

@@ -1,0 +1,21 @@
+"Analysis Type","Treatment","Timepoint","Number at Risk"
+Interim,Control,0,140
+Interim,Control,6,92
+Interim,Control,12,29
+Interim,Control,15,11
+Interim,Treatment,0,140
+Interim,Treatment,6,106
+Interim,Treatment,12,38
+Interim,Treatment,15,7
+Final,Control,0,140
+Final,Control,12,87
+Final,Control,24,59
+Final,Control,36,50
+Final,Control,42,24
+Final,Control,47,5
+Final,Treatment,0,140
+Final,Treatment,12,111
+Final,Treatment,24,86
+Final,Treatment,36,67
+Final,Treatment,42,30
+Final,Treatment,47,6

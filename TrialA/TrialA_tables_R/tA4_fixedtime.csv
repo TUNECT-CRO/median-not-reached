@@ -1,0 +1,7 @@
+"Treatment","Timepoint","Event-Free Probability","95% CI Lower Limit","95% CI Upper Limit"
+"Control",12,"0.647","0.560","0.721"
+"Control",24,"0.467","0.381","0.548"
+"Control",36,"0.427","0.342","0.509"
+"Treatment",12,"0.833","0.759","0.885"
+"Treatment",24,"0.686","0.600","0.757"
+"Treatment",36,"0.586","0.496","0.666"
